@@ -5,5 +5,7 @@ public class first_class {
 		// TODO Auto-generated method stub
 System.out.println("my java class");
 	}
-
+  public void atse() {
+	  System.out.println("my java class");
+  }
 }
