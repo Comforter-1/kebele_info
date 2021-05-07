@@ -7,4 +7,9 @@ public class Baaa {
      System.out.println("this is fd");
 	}
 
+	public void man() {
+		// TODO Auto-generated method stub
+     System.out.println("this is fd");
+	}
+
 }
