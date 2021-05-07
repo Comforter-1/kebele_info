@@ -69,7 +69,8 @@ public class Kebele_info {
     f.setVisible(true);
     
     class acl implements ActionListener{
-            public void actionPerformed(ActionEvent e) {
+            @SuppressWarnings("deprecation")
+			public void actionPerformed(ActionEvent e) {
                
                 String password,pw="1234",null1="";
                 password=pf.getText();
