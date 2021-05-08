@@ -27,9 +27,7 @@ public class Kebele_info {
         {return null;
         
         }}
-     //ujioljikolgvgvghvghvghiii
-    //ghfdgfghfdg 
- //wqiohqfhkkfjqwlksjdkskjwislkjdikjskwdisksk
+     //cccccccccccccccc
     public static void main(String[]args){
     JFrame f=new JFrame("LOGIN PAGE");
     JLabel l=new JLabel("                      WELCOME TO KEBELE MANAGEMENT SYSTEM");
