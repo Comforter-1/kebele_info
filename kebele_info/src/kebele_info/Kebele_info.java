@@ -27,7 +27,7 @@ public class Kebele_info {
         {return null;
         
         }}
-     //ujioljikol
+     //ujioljikolgvgvghvghvghiii
     //ghfdgfghfdg 
  //wqiohqfhkkfjqwlksjdkskjwislkjdikjskwdisksk
     public static void main(String[]args){
